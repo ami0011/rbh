@@ -1,0 +1,103 @@
+{
+  "transactions": [
+    {
+      "date":"24 July 2019",
+      "description":"CUR02 -- 100-3-00509-7 - THB ",
+      "type":"MONTHLY, EVERY 1ST OF THE MONTH FOR 12 MONTHS",
+      "status":"Approved",
+      "amount":{
+        "label":null,
+        "value":26700.00,
+        "currency":"THB"
+      }
+    },
+    {
+      "date":"24 July 2019",
+      "description":"TSP25 -- 137-2-03674-2 - THB",
+      "type":"ONE TIME ONLY",
+      "status":"Pending",
+      "amount":{
+        "label":null,
+        "value":2300.00,
+        "currency":"THB"
+      }
+    },
+    {
+      "date":"23 July 2019",
+      "description":"PEV05 -- 732–9-620138-3 - THB ",
+      "type":"ONE TIME ONLY",
+      "status":"Canceled",
+      "amount":{
+        "label":null,
+        "value":100290.00,
+        "currency":"THB"
+      }
+    },
+    {
+      "date":"23 July 2019",
+      "description":"RJS01 -- 829–6-926183-6 - JPY ",
+      "type":"ONE TIME ONLY",
+      "status":"Approved",
+      "amount":{
+        "label":null,
+        "value":12300.00,
+        "currency":"JPY"
+      }
+    },
+    {
+      "date":"23 July 2019",
+      "description":"YPD29 -- 820–8–719372-7 - USD ",
+      "type":"ONE TIME ONLY",
+      "status":"Approved",
+      "amount":{
+        "label":null,
+        "value":1860.00,
+        "currency":"USD"
+      }
+    },
+    {
+      "date":"21 July 2019",
+      "description":"DHZ91 -- 629-3-062813-2 - USD ",
+      "type":"WEEKLY",
+      "status":"Pending",
+      "amount":{
+        "label":null,
+        "value":2300.00,
+        "currency":"USD"
+      }
+    },
+      {
+      "date":"21 July 2019",
+      "description":"WIX14 -- 721–6-927193-4 - THB ",
+      "type":"ONE TIME ONLY",
+      "status":"Approved",
+      "amount":{
+        "label":null,
+        "value":1000860.00,
+        "currency":"THB"
+      }
+    },
+      {
+      "date":"20 July 2019",
+      "description":"NAK82 -- 193–2–926187-9 - EUR ",
+      "type":"MONTHLY, EVERY 30TH OF THE MONT FOR 6 MONTHS",
+      "status":"Pending",
+      "amount":{
+        "label":null,
+        "value":2300.00,
+        "currency":"EUR"
+      }
+    },
+      {
+      "date":"21 July 2019",
+      "description":"DHZ91 -- 629-3-062813-2 - USD ",
+      "type":"ONE TIME ONLY",
+      "status":"Canceled",
+      "amount":{
+        "label":null,
+        "value":1860.00,
+        "currency":"USD"
+      }
+    }
+  ]
+}

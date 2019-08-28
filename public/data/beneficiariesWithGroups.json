@@ -1,0 +1,100 @@
+{
+  "beneficiaries": [
+    {
+      "name":"Ace and friends LTD",
+      "members":51
+    },
+    {
+      "name":"Alpha team",
+      "members":107
+    },
+    {
+      "name":"Amitesh Sailing team",
+      "members":5
+    },
+    {
+      "name":"AWS cloud service",
+      "members":1
+    },
+    {
+      "name":"Bart Simpson",
+      "members":1
+    },
+    {
+      "name":"Em the table expert",
+      "members":1
+    },
+    {
+      "name":"Employees",
+      "members":89
+    },
+    {
+      "name":"Francesco Delivery",
+      "members":1
+    },
+      {
+      "name":"Friends of friends",
+      "members":5
+    },
+    {
+      "name":"Farm staff",
+      "members":44
+    },
+    {
+      "name":"Farm payroll A",
+      "members":12
+    },
+    {
+      "name":"Farm vendor",
+      "members":1
+    },
+    {
+      "name":"Fon's Japanese companies",
+      "members":3
+    },
+    {
+      "name":"Hotel Northgate",
+      "members":1
+    },
+    {
+      "name":"Kishore productions",
+      "members":3
+    },
+    {
+      "name":"Milano Tailors",
+      "members":8
+    },
+    {
+      "name":"P'Fern INC",
+      "members":7
+    },
+    {
+      "name":"Razel H.",
+      "members":1
+    },
+    {
+      "name":"R&D team",
+      "members":15
+    },
+      {
+      "name":"Simpsons Homer",
+      "members":1
+    },
+    {
+      "name":"Tanya freelance and designers",
+      "members":3
+    },
+    {
+      "name":"Varoot LTD",
+      "members":5
+    },
+    {
+      "name":"Wong Backend",
+      "members":1
+    },
+    {
+      "name":"Zin Singapore",
+      "members":1
+    }
+  ]
+}

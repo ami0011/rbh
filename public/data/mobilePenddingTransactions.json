@@ -1,0 +1,204 @@
+{
+    "status": {
+        "code": 1000,
+        "header": "Success",
+        "description": "Success"
+    },
+    "data": {
+        "sections": [
+            {
+                "sortSequence": 0,
+                "sectionType": "PAYMENT_TO_OWN",
+                "transactions": [
+                    {
+                        "sortSequence": 0,
+                        "senderDetails": {
+                            "iconUrl": "/topup/biller-logo/017.png",
+                            "senderName": "Happy cup",
+                            "senderAccountNo": "1252932126",
+                            "accountType": "Same day media cleaning",
+                            "maskAccountNo": false
+                        },
+                        "recipientDetails": {
+                            "iconUrl": "/topup/biller-logo/017.png",
+                            "recipientName": "Happy cup2",
+                            "recipientAccountNo": "8952581023",
+                            "accountType": null,
+                            "maskAccountNo": false,
+                            "recipients": []
+                        },
+                        "transactionDetails": {
+                            "transactionId": "1183TR211601d1",
+                            "amount": "1,500.00",
+                            "date": "2018-04-30 17:21:1",
+                            "fee": "25.00"
+                        }
+                    },
+                    {
+                        "sortSequence": 1,
+                        "senderDetails": {
+                            "iconUrl": "/topup/biller-logo/017.png",
+                            "senderName": "Happy cup",
+                            "senderAccountNo": "1252932126",
+                            "accountType": "Same day media cleaning",
+                            "maskAccountNo": false
+                        },
+                        "recipientDetails": {
+                            "iconUrl": "/topup/biller-logo/017.png",
+                            "recipientName": "Pattarapon",
+                            "recipientAccountNo": "5781365931",
+                            "accountType": null,
+                            "maskAccountNo": false,
+                            "recipients": []
+                        },
+                        "transactionDetails": {
+                            "transactionId": "1183TR211601d1",
+                            "amount": "450.00",
+                            "date": "2018-04-30 17:21:1",
+                            "fee": "25.00"
+                        }
+                    }
+                ]
+            },
+            {
+                "sortSequence": 1,
+                "sectionType": "PAYMENT_TO_OTHERS",
+                "transactions": [
+                    {
+                        "sortSequence": 0,
+                        "senderDetails": {
+                            "iconUrl": "/topup/biller-logo/017.png",
+                            "senderName": "Happy cup",
+                            "senderAccountNo": "1252932126",
+                            "accountType": "Next day playroll payment",
+                            "maskAccountNo": false
+                        },
+                        "recipientDetails": {
+                            "iconUrl": "/topup/biller-logo/017.png",
+                            "recipientName": "Group A",
+                            "recipientAccountNo": "98374627490398411356",
+                            "accountType": null,
+                            "maskAccountNo": false,
+                            "recipients": [
+                                {
+                                    "sortSequence": 0,
+                                    "iconUrl": "/topup/biller-logo/017.png",
+                                    "recipientName": "Parinda",
+                                    "recipientAccountNo": "1249036283",
+                                    "accountType": null,
+                                    "maskAccountNo": false,
+                                    "amount": "35,500.00",
+                                    "date": "2018-04-30 17:21:1"
+                                },
+                                {
+                                    "sortSequence": 1,
+                                    "iconUrl": "/topup/biller-logo/017.png",
+                                    "recipientName": "Ornjira",
+                                    "recipientAccountNo": "1249036283",
+                                    "accountType": null,
+                                    "maskAccountNo": false,
+                                    "amount": "200,500.00",
+                                    "date": "2018-04-30 17:21:1"
+                                },
+                                {
+                                    "sortSequence": 2,
+                                    "iconUrl": "/topup/biller-logo/017.png",
+                                    "recipientName": "Wilaiwan",
+                                    "recipientAccountNo": "1249036283",
+                                    "accountType": null,
+                                    "maskAccountNo": false,
+                                    "amount": "5,500.00",
+                                    "date": "2018-04-30 17:21:1"
+                                }
+                            ]
+                        },
+                        "transactionDetails": {
+                            "transactionId": "1183TR211601d1",
+                            "amount": "435,500.00",
+                            "date": "2018-04-30 17:21:1",
+                            "fee": "0.00"
+                        }
+                    },
+                    {
+                        "sortSequence": 1,
+                        "senderDetails": {
+                            "iconUrl": "/topup/biller-logo/017.png",
+                            "senderName": "Happy cup",
+                            "senderAccountNo": "1252932126",
+                            "accountType": "Same day media cleaning",
+                            "maskAccountNo": false
+                        },
+                        "recipientDetails": {
+                            "iconUrl": "/topup/biller-logo/017.png",
+                            "recipientName": "Happy cup2",
+                            "recipientAccountNo": "8952581023",
+                            "accountType": null,
+                            "maskAccountNo": false,
+                            "recipients": []
+                        },
+                        "transactionDetails": {
+                            "transactionId": "1183TR211601d1",
+                            "amount": "1,500.00",
+                            "date": "2018-04-30 17:21:1",
+                            "fee": "25.00"
+                        }
+                    }
+                ]
+            },
+            {
+                "sortSequence": 2,
+                "sectionType": "INTERNATIONAL_PAYMENT",
+                "transactions": [
+                    {
+                        "sortSequence": 0,
+                        "senderDetails": {
+                            "iconUrl": "/topup/biller-logo/017.png",
+                            "senderName": "Happy cup",
+                            "senderAccountNo": "1252932126",
+                            "accountType": "Same day media cleaning",
+                            "maskAccountNo": false
+                        },
+                        "recipientDetails": {
+                            "iconUrl": "/topup/biller-logo/017.png",
+                            "recipientName": "Kriangkrai",
+                            "recipientAccountNo": "8952581023",
+                            "accountType": null,
+                            "maskAccountNo": false,
+                            "recipients": []
+                        },
+                        "transactionDetails": {
+                            "transactionId": "1183TR211601d1",
+                            "amount": "1,500.00",
+                            "date": "2018-04-30 17:21:1",
+                            "fee": "25.00"
+                        }
+                    },
+                    {
+                        "sortSequence": 1,
+                        "senderDetails": {
+                            "iconUrl": "/topup/biller-logo/017.png",
+                            "senderName": "Happy cup",
+                            "senderAccountNo": "1252932126",
+                            "accountType": "Same day media cleaning",
+                            "maskAccountNo": false
+                        },
+                        "recipientDetails": {
+                            "iconUrl": "/topup/biller-logo/017.png",
+                            "recipientName": "Karen",
+                            "recipientAccountNo": "5781365931",
+                            "accountType": null,
+                            "maskAccountNo": false,
+                            "recipients": []
+                        },
+                        "transactionDetails": {
+                            "transactionId": "1183TR211601d1",
+                            "amount": "450.00",
+                            "date": "2018-04-30 17:21:1",
+                            "fee": "25.00"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+  "accountSummary": {
+    "summary": {
+      "currency": "THB",
+      "label": "Outstanding balance",
+      "value": 14000000.00
+    },
+    "summaryTooltip": {
+      "actionLink": "/payments/new",
+      "actionText": "Make a transaction",
+      "description": "As of 13:30 01 June 2019",
+      "title": "Your payment for staff is coming up in 3 days."
+    },
+    "chart": [
+      {
+        "currency": "THB",
+        "label": "Available balance",
+        "value": 10000000.00
+      },
+      {
+        "currency": "THB",
+        "label": "Credit",
+        "value": 4000000.00
+      },
+      {
+        "currency": "THB",
+        "label": "Cheques",
+        "value": 2000000.00
+      }
+    ]
+  },
+  "accounts": [
+    {
+      "amount": {
+        "currency": "THB",
+        "label": null,
+        "value": 10000000.00
+      },
+      "count": 6,
+      "type": "DEPOSIT ACCOUNTS"
+    },
+    {
+      "amount": {
+        "currency": "THB",
+        "label": null,
+        "value": 2000000.00
+      },
+      "count": 4,
+      "type": "PENDING TRANSACTIONS"
+    },
+    {
+      "amount": {
+        "currency": "THB",
+        "label": null,
+        "value": 2000000.00
+      },
+      "count": 2,
+      "type": "CHEQUES"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "requests": [
+    {
+      "refNo": "",
+      "name": "David Ong Sanchez",
+      "nickname": "Nickname 1",
+      "feeCharge": "Own Account",
+      "amount": {
+        "currency": "THB"
+      },
+      "fee": {
+        "currency": "THB"
+      },
+      "bank": "Siam Commercial Bank",
+      "bankAccountNo": "126-328115-1"
+    },
+    {
+      "refNo": "",
+      "name": "Teerin Pornpattanapaisarn",
+      "nickname": "Nickname Long",
+      "feeCharge": "By Recipient",
+      "amount": {
+        "currency": "THB"
+      },
+      "fee": {
+        "currency": "THB"
+      },
+      "bank": "Krungsri Bank",
+      "bankAccountNo": "196-322318-2"
+    },
+    {
+      "refNo": "",
+      "name": "Oranuch Rojkarnjasaroj",
+      "nickname": "Nickname 3",
+      "feeCharge": "Split",
+      "amount": {
+        "currency": "THB"
+      },
+      "fee": {
+        "currency": "THB"
+      },
+      "bank": "Kasikorn Bank",
+      "bankAccountNo": "132-328115-7"
+    },
+    {
+      "refNo": "",
+      "name": "Woottikorn Kaweechaikul",
+      "nickname": "Nickname 4",
+      "feeCharge": "Own Account",
+      "amount": {
+        "currency": "THB"
+      },
+      "fee": {
+        "currency": "THB"
+      },
+      "bank": "Siam Commercial Bank",
+      "bankAccountNo": "188-366320-3"
+    },
+    {
+      "refNo": "",
+      "name": "Paphavee Sakdanarapat",
+      "nickname": "Nickname 5",
+      "feeCharge": "Own Account",
+      "amount": {
+        "currency": "THB"
+      },
+      "fee": {
+        "currency": "THB"
+      },
+      "bank": "Siam Commercial Bank",
+      "bankAccountNo": "122-988844-4"
+    },
+    {
+      "refNo": "",
+      "name": "Parinda Sakdanarapat",
+      "nickname": "Nickname 6",
+      "feeCharge": "Own Account",
+      "amount": {
+        "currency": "THB"
+      },
+      "fee": {
+        "currency": "THB"
+      },
+      "bank": "Siam Commercial Bank",
+      "bankAccountNo": "199-200218-9"
+    },
+    {
+      "refNo": "",
+      "name": "Nattamon Techakul",
+      "nickname": "Nickname 7",
+      "feeCharge": "Own Account",
+      "amount": {
+        "currency": "THB"
+      },
+      "fee": {
+        "currency": "THB"
+      },
+      "bank": "Siam Commercial Bank",
+      "bankAccountNo": "133-433032-1"
+    },
+    {
+      "refNo": "",
+      "name": "Sakpetch Pornpraprapa",
+      "nickname": "Nickname 8",
+      "feeCharge": "Own Account",
+      "amount": {
+        "currency": "THB"
+      },
+      "fee": {
+        "currency": "THB"
+      },
+      "bank": "Siam Commercial Bank",
+      "bankAccountNo": "137-919217-3"
+    }
+  ]
+}

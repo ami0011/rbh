@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="65.3690645%" id="radialGradient-1">
+            <stop stop-color="#6744AF" offset="0%"></stop>
+            <stop stop-color="#8268B5" offset="99.9366554%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Linear-flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Template-for-Homepage" transform="translate(-828.000000, -2144.000000)">
+            <g id="Group-4" transform="translate(828.000000, 2144.000000)">
+                <circle id="Oval" fill="#EBEBEB" cx="15" cy="15" r="15"></circle>
+                <circle id="Oval" fill="url(#radialGradient-1)" cx="15" cy="15" r="9"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

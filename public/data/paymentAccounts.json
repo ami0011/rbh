@@ -1,0 +1,34 @@
+{
+  "accounts": [
+    {
+      "name":"448-982122-1",
+        "company":"Farm co., Ltd",
+        "accountType":"Savings",
+        "balance":{
+            "label":null,
+            "value":200832031.00,
+            "currency":"THB"
+      }
+    },
+    {
+      "name":"448-982122-5",
+        "company":"Farm co., Ltd",
+        "accountType":"Savings",
+        "balance":{
+            "label":null,
+            "value":1005003.00,
+            "currency":"THB"
+      }
+    },
+    {
+      "name":"494-251122-1",
+        "company":"Farm co., Ltd",
+        "accountType":"Current",
+        "balance":{
+            "label":null,
+            "value":10882031.00,
+            "currency":"THB"
+      }
+    }
+  ]
+}
