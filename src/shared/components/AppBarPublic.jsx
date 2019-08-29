@@ -50,7 +50,7 @@ function AppBarPublic({ history }) {
               className={classes.scbAppBarLinks}
               color="textPrimary"
               component="button"
-              onClick={() => { }}
+              onClick={() => {}}
               variant="body1"
             >
               Home
@@ -59,7 +59,7 @@ function AppBarPublic({ history }) {
               className={classes.scbAppBarLinks}
               color="textPrimary"
               component="button"
-              onClick={() => { }}
+              onClick={() => {}}
               variant="body1"
             >
               For Sale
@@ -68,7 +68,7 @@ function AppBarPublic({ history }) {
               className={classes.scbAppBarLinks}
               color="textPrimary"
               component="button"
-              onClick={() => { }}
+              onClick={() => {}}
               variant="body1"
             >
               For Lease
@@ -77,7 +77,7 @@ function AppBarPublic({ history }) {
               className={classes.scbAppBarLinks}
               color="textPrimary"
               component="button"
-              onClick={() => { }}
+              onClick={() => {}}
               variant="body1"
             >
               International
@@ -86,7 +86,7 @@ function AppBarPublic({ history }) {
               className={classes.scbAppBarLinks}
               color="textPrimary"
               component="button"
-              onClick={() => { }}
+              onClick={() => {}}
               variant="body1"
             >
               Mines
@@ -95,7 +95,7 @@ function AppBarPublic({ history }) {
               className={classes.scbAppBarLinks}
               color="textPrimary"
               component="button"
-              onClick={() => { }}
+              onClick={() => {}}
               variant="body1"
             >
               Investments
@@ -104,7 +104,7 @@ function AppBarPublic({ history }) {
               className={classes.scbAppBarLinks}
               color="textPrimary"
               component="button"
-              onClick={() => { }}
+              onClick={() => {}}
               variant="body1"
             >
               Agents

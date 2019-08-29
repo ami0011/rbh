@@ -10,10 +10,10 @@ import LndServiceInfo from './components/LndServiceInfo';
 const sections = [
   {
     id: 'benefits',
-    title: 'Benefits',
+    title: 'For Sales',
     component: <LndBenefits />,
   },
-  {
+  /* {
     id: 'howItWorks',
     title: 'How it works',
     noContainer: true,
@@ -28,7 +28,7 @@ const sections = [
     id: 'faq',
     title: 'FAQ',
     component: <LndFaq />,
-  },
+  }, */
 ];
 
 function Landing() {
@@ -39,7 +39,7 @@ function Landing() {
 
   return (
     <div>
-      <ScrollUpButton />
+      {/* <ScrollUpButton /> */}
       <LndMasterContainer />
       <LndContentSection sections={sections} />
     </div>

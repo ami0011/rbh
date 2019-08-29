@@ -6,7 +6,7 @@ const store = init({
   models: {
     //models
     ...dashboardModels,
-    ...sharedModels
+    ...sharedModels,
   },
   plugins: [selectPlugin()],
 });

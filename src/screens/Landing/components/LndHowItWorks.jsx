@@ -48,9 +48,7 @@ function LndHowItWorks() {
 
   return (
     <div className={classes.root}>
-      <Container>
-        Stepper
-      </Container>
+      <Container>Stepper</Container>
     </div>
   );
 }

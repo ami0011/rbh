@@ -144,7 +144,7 @@ LoginForm.propTypes = {
 
 LoginForm.defaultProps = {
   anchorEl: null,
-  onForgotPassword: () => { },
+  onForgotPassword: () => {},
   loading: false,
   children: null,
 };

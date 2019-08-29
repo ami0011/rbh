@@ -30,38 +30,30 @@ const useStyles = makeStyles(theme => ({
 const corporateSite = [
   {
     linkUrl: '',
-    linkDesc: 'Intercome Report Swift',
+    linkDesc: 'For Sales',
   },
   {
     linkUrl: '',
-    linkDesc: 'Payroll total solution',
+    linkDesc: 'For Lease',
   },
   {
     linkUrl: '',
-    linkDesc: 'Interest rate & fees',
-  },
-  {
-    linkUrl: '',
-    linkDesc: 'Exclusive payment cards',
+    linkDesc: 'Internation',
   },
 ];
 
 const onlineBankingSite = [
   {
     linkUrl: '',
-    linkDesc: 'Easy Net',
+    linkDesc: 'Mines',
   },
   {
     linkUrl: '',
-    linkDesc: 'FX Online',
+    linkDesc: 'Investment',
   },
   {
     linkUrl: '',
-    linkDesc: 'SCB Trade Net',
-  },
-  {
-    linkUrl: '',
-    linkDesc: 'SCB Online',
+    linkDesc: 'Agents',
   },
 ];
 
@@ -73,22 +65,22 @@ function AppFooter() {
         <Grid container alignItems="baseline" spacing={4}>
           <Grid item xs={12} md={3}>
             <Typography component="span" variant="h3" className={classNames(classes.whiteFont, classes.bold)}>
-              SCB
+              RBH
             </Typography>{' '}
             <Typography component="span" variant="h3" className={classNames(classes.businessNet, classes.bold)}>
-              Business Net
+              Real Estate
             </Typography>
             <Typography variant="body1" className={classes.whiteFont}>
-              Your company{"'"}s online channel for all transactions
+              Exchange Tower Level 17, 2 The Esplanade 6000 Perth WA
             </Typography>
           </Grid>
           <Grid item xs={12} md={3}>
             <Typography className={classNames(classes.listTitles, classes.bold)} variant="h6">
-              Other Corporate Site
+              Sales
             </Typography>
             {corporateSite.map(links => (
               <Grid item key={links.linkDesc}>
-                <Link component="button" className={classes.links} variant="body2" onClick={() => { }}>
+                <Link component="button" className={classes.links} variant="body2" onClick={() => {}}>
                   {links.linkDesc}
                 </Link>
               </Grid>
@@ -96,11 +88,11 @@ function AppFooter() {
           </Grid>
           <Grid item xs={12} md={3}>
             <Typography className={classNames(classes.listTitles, classes.bold)} variant="h6">
-              Online Banking
+              Investments
             </Typography>
             {onlineBankingSite.map(links => (
               <Grid item key={links.linkDesc}>
-                <Link component="button" className={classes.links} variant="body2" onClick={() => { }}>
+                <Link component="button" className={classes.links} variant="body2" onClick={() => {}}>
                   {links.linkDesc}
                 </Link>
               </Grid>
@@ -108,10 +100,10 @@ function AppFooter() {
           </Grid>
           <Grid item xs={12} md={3} display="block">
             <Typography className={classNames(classes.listTitles, classes.bold)} variant="h6">
-              Client Service
+              Contact Us
             </Typography>
             <Typography variant="h3" className={classes.links}>
-              Call 02-777-7777
+              Call 08 6146 1322
             </Typography>
           </Grid>
         </Grid>

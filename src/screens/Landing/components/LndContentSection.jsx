@@ -37,11 +37,11 @@ function LndContentSection({ sections }) {
 
   return (
     <div>
-      <Paper square elevation={0} className={classes.stickyPaper}>
+      {/* <Paper square elevation={0} className={classes.stickyPaper}>
         <Container>
 
         </Container>
-      </Paper>
+      </Paper> */}
       {renderSections()}
     </div>
   );

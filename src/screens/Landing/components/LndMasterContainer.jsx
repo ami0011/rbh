@@ -32,7 +32,7 @@ function LndMasterContainer() {
       <div className={classes.img} />
       <Container className={classes.main}>
         <LndMasterHeader />
-        <LndMasterNews />
+        {/* <LndMasterNews /> */}
       </Container>
     </div>
   );
